@@ -1,4 +1,3 @@
-Resolução
 salario = float(input("Salário do comprador: R$"))
 finaciamento = int(input("Quantos anos de financiamento?"))
 prestacao = casa/(finaciamento*12)
